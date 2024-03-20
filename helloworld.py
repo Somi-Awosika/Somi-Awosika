@@ -1,3 +1,9 @@
+# Print a message indicating Git's awesomeness
 print("Git is awesome!")
-name = input("Enter your name: ")
-print("Hello,", name)
+
+# Prompt the user to enter their name
+user_name = input("Enter your name: ")
+
+# Greet the user with their name
+print("Hello,", user_name)
+
