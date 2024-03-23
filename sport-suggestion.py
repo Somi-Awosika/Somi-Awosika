@@ -21,7 +21,7 @@ answer4 = validate_input("Do you enjoy fast-paced games? ")
 answer5 = validate_input("Are you interested in individual sports? ")
 
 
-# Analyze answers and suggest a sport
+
 # Analyze answers and suggest a sport
 if answer1 == "yes" and answer2 == "yes":
     print("You might enjoy football or rugby!")
