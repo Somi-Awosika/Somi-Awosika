@@ -22,13 +22,15 @@ answer5 = validate_input("Are you interested in individual sports? ")
 
 
 # Analyze answers and suggest a sport
-if answer1.lower() == "yes" and answer2.lower() == "yes":
+# Analyze answers and suggest a sport
+if answer1 == "yes" and answer2 == "yes":
     print("You might enjoy football or rugby!")
-elif answer1.lower() == "yes" and answer2.lower() == "no":
+elif answer1 == "yes" and answer2 == "no":
     print("You might enjoy basketball or tennis!")
-elif answer3.lower() == "outdoor" and answer4.lower() == "yes":
+elif answer3 == "outdoor" and answer4 == "yes":
     print("You might enjoy football or rugby!")
-elif answer3.lower() == "outdoor" and answer5.lower() == "yes":
+elif answer3 == "outdoor" and answer5 == "yes":
     print("You might enjoy tennis or swimming!")
 else:
     print("You might enjoy basketball or swimming!")
+
