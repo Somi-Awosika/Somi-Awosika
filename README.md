@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Somi-Awosika
 - 👀 I’m interested in coding and helping boost our growing economy via tech!
-- 🌱 I’m currently learning to code with python and JavvaScript
+- 🌱 I’m currently learning to code with python and JavaScript
 - 💞️ I’m looking to collaborate on projects and learn more on how to develop software
 - 📫 How to reach me (somidele@icloud.com) 
 - 😄 Pronouns: He/Him
